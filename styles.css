@@ -1,0 +1,23 @@
+.center {
+    text-align: center;
+}
+
+#noodles {
+    background-color: rgb(218, 187, 52);
+    color: white;
+}
+
+#chicken {
+    background-color: rgb(255, 136, 0);
+    color: white;
+}
+
+#pasta {
+    background-color: rgb(236, 236, 164);
+    color: white;
+}
+
+#noodle-img, #pasta-img, #chicken-img {
+    height: 400px;
+    width: auto;
+}
